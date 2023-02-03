@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "666235006734",
+    "project_id": "khapa-shapa-7f2b2",
+    "storage_bucket": "khapa-shapa-7f2b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666235006734:android:6be051595a3c5d668a315f",
+        "android_client_info": {
+          "package_name": "com.appbymuk.khapa_shapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666235006734-qeohks9nmrdc23ou69gpm45dmell1css.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtqSIQHciZXAuhHKrTRNWqKxIT9EVGaeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666235006734-qeohks9nmrdc23ou69gpm45dmell1css.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666235006734-j0h2b5c1jm43q6j5mfmi1jgnohscseug.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appbymuk.khapaShapa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
